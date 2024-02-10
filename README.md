@@ -8,6 +8,8 @@ You will find Jupyter notebooks that walk you through various EDA techniques, fr
 
 ## Watch the Tutorial
 
+[![Watch the Tutorial](http://img.youtube.com/vi/FRzFO9bZlVw/0.jpg)](https://www.youtube.com/watch?v=FRzFO9bZlVw)
+
 Enhance your learning experience by watching our detailed video tutorial on [YouTube](https://www.youtube.com/watch?v=FRzFO9bZlVw). This tutorial is tailored for both beginners and seasoned analysts looking to refine their skills.
 
 ## Further Reading on Our Blog
